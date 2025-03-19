@@ -1,6 +1,20 @@
 # Changelog
 
 
+## [3.7.2](https://github.com/ptarmiganlabs/butler-sheet-icons/compare/butler-sheet-icons-v3.7.1...butler-sheet-icons-v3.7.2) (2025-03-19)
+
+
+### Bug Fixes
+
+* improve error logging for browser installation and version retrieval ([2044495](https://github.com/ptarmiganlabs/butler-sheet-icons/commit/2044495a4cb4c9d570a5b9b0206590a2347990bb))
+
+
+### Miscellaneous
+
+* update commander, esbuild, and eslint-config-prettier to latest versions ([c0f1ffb](https://github.com/ptarmiganlabs/butler-sheet-icons/commit/c0f1ffbb27440618388ad29de160d8d420f14cb7))
+* update dependencies to latest versions ([90a6204](https://github.com/ptarmiganlabs/butler-sheet-icons/commit/90a6204108cd8ec077a4aeb5c8feb8d0a1e00c54))
+* update puppeteer-core to version 24.4.0 and add sharp to pkg assets ([601540f](https://github.com/ptarmiganlabs/butler-sheet-icons/commit/601540fcc1acbe0eda87737bf3705da444c930b6))
+
 ## [3.7.1](https://github.com/ptarmiganlabs/butler-sheet-icons/compare/butler-sheet-icons-v3.7.0...butler-sheet-icons-v3.7.1) (2024-11-10)
 
 
